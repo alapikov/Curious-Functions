@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "nodenext",
+        "strict": false,
+        "noImplicitAny": false,
+        "alwaysStrict": false,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "rootDir": "./",
+        "baseUrl": "./",
+    },
+    "include": ["./"],
+}
